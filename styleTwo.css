@@ -1,0 +1,91 @@
+
+
+
+
+#flexxx{
+    display: flex;
+    justify-content: space-between;
+ 
+
+
+}
+
+
+  #doList{
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgb(228, 58, 58);
+    border-radius: 10px;
+  
+  } 
+ 
+
+  
+  #logBtnn {
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgb(228, 58, 58);
+    border-radius: 10px;
+  }
+  
+
+  .flex {
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  }
+
+
+  .form {
+    box-shadow: 1px 1px 6px 5px rgb(133, 133, 159);
+    display: flex;
+    gap: 12px;
+    
+    justify-content: center;
+    align-items: center;
+  
+    padding-top: 10px;
+    padding-bottom: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 30px;
+    background-color: rgb(197, 197, 206);
+  }
+  
+  .Jobb {
+    padding-top: 20px;
+    padding-bottom: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 30px;
+    display: flex;
+   
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    background-color: rgb(197, 197, 206);
+    box-shadow: 1px 1px 6px 5px rgb(133, 133, 159);
+  }
+
+#jobList{
+  font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    background-color: rgb(228, 58, 58);
+    border-radius: 10px;
+}
+
+#add{
+  font-size: 20px;
+  
+  background-color: rgb(228, 58, 58);
+  border-radius: 10px;
+}
+ 
