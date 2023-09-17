@@ -2,7 +2,7 @@
 const logBtn = document.getElementById("logBtn");
 
 logBtn.onclick = () => {
-  document.location.href = "./indexone.html";
+  document.location.href = "./index.html";
 };
 
 
