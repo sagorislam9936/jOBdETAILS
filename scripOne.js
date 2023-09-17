@@ -1,4 +1,3 @@
-
 const yourEmail = document.getElementById("yourEmail");
 const yourPassword = document.getElementById("yourPassword");
 const Loggin = document.getElementById("Loggin");
@@ -24,7 +23,7 @@ Loggin.onclick = () => {
       pass == accInfo.password &&
       otpNumber == randomNumber
     ) {
-     document.location.href="./indexTwo";
+      document.location.href = "./indexTwo";
     } else {
       Warning.innerText = "Your info not currect";
       Warning.style.color = "red";
